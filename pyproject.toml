@@ -1,0 +1,7 @@
+[project]
+name = "spark-k8s-demo"
+version = "0.1.0"
+description = "Demo for spark and k8s"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
